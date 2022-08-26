@@ -3,7 +3,7 @@
 Basic Phunky Themes using Bootstrap 5 Standards
 Used on phunkspotlight.xyz
 
-Import oprder is important, bootstrap then custom.
+Import order is important, bootstrap then custom.
 Any overrides or custom features in custom.css please.
 Then, any additional CSS after that.
 
